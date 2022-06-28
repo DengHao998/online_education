@@ -16,8 +16,8 @@ import java.util.List;
  */
 public class TestVod {
     public static void main(String[] args) throws  Exception{
-        String accessKeyId="LTAI5tF9u1v4S3mVAruKx3Hm";
-        String accessKeySecret="ZUS6rHCnXRqLeAXvdAClrtqyKo1Lb7";
+        String accessKeyId="";
+        String accessKeySecret="";
         String title="test1";
         String fileName="E:/mypicture/demo.mp4";
         upload(accessKeyId,accessKeySecret,title,fileName);
